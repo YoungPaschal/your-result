@@ -1,0 +1,125 @@
+.body{
+    background-color: blueviolet;
+}
+.first{
+    display: flex;
+    flex-direction: row;
+    margin-top: 80px;
+    margin-left: 200px;
+}
+.result{
+    border: 0px;
+    height: 400px;
+    background-color: hsl(234, 51%, 48%);
+    width: 300px;
+    border-radius: 30px;
+    text-align: center;
+    color: white;
+}
+.summary{
+    border:0px;
+    height: 400px;
+    background-color: white;
+    width: 300px;
+    border-radius: 30px;
+    text-align: center;
+    box-shadow: 0px 9px 10px #424042;
+}
+.of{
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    border: 0px;
+    background-color: hsla(256, 72%, 46%, 1);
+    color: white;
+    font-size: 12px;
+    margin-top: 20px;
+}
+.yours{
+    font-size: 17px;
+    margin-top: 40px;
+}
+.nu{
+    font-size: 50px;
+}
+.great{
+    margin-top: 30px;
+    font-size: 30px;
+}
+.scored{
+    margin-top: 20px;
+    font-size: 12px;
+}
+.reaction{
+    width: 280px;
+    text-align: left;
+    font-size: 15px;
+    height: 40px;
+    border: 0px;
+    color: hsl(0, 100%, 67%);
+    background-color: hsla(0, 73%, 88%, 0.507);
+    border-radius: 10px;
+}
+.span1{
+    margin-left: 120px;
+    color: black;
+}
+.memory{
+    width: 280px;
+    text-align: left;
+    font-size: 15px;
+    height: 40px;
+    border: 0px;
+    color: hsl(39, 100%, 56%);
+    background-color: hsl(39, 100%, 87%);
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.span2{
+    margin-left: 120px;
+    color: black;
+}
+.verbal{
+    width: 280px;
+    text-align: left;
+    font-size: 15px;
+    height: 40px;
+    border: 0px;
+    color:hsl(166, 100%, 37%);
+    background-color:hsl(165, 73%, 88%);
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.span3{
+    margin-left: 140px;
+    color: black;
+}
+.visual{
+    width: 280px;
+    text-align: left;
+    font-size: 15px;
+    height: 40px;
+    border: 0px;
+    color:hsl(234, 85%, 45%);
+    background-color:hsl(234, 85%, 82%);
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.span4{
+    margin-left: 140px;
+    color: black;
+}
+.continue{
+    width: 250px;
+    height: 40px;
+    border-radius: 60px;
+    border: 0px;
+    margin-top: 30px;
+    background-color:rgb(33, 29, 61);
+    color: white;
+}
+.h1{
+    text-align: left;
+    font-size: 20px;
+    margin-left: 10px;
+}
